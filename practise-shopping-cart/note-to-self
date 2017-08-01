@@ -1,0 +1,9 @@
+"slim/twig-view" = is a basic template engine VIEWS 
+"php-di/php-di" = does dependancy injection for CONTROLLERS
+"illuminate/database" = taken from laravel, helps create MODELS for database interaction
+
+
+in the JSON
+        "psr-4": relates to namespacing
+**NOTE need to type in terminal $ composer dump-autoload -o    
+

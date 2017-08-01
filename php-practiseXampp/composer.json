@@ -1,0 +1,8 @@
+{
+    "name": "jenny/php-practise-xampp",
+    "description": "practice",
+    "type": "project",
+    "require": {
+        "slim/slim": "^3.7"
+    }
+}
